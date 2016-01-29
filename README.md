@@ -18,3 +18,6 @@ PHP的在线排队叫号系统
 全部文件除已有版权归属或特殊声明外，林友哲版权所有。 393562235@qq.com
 alpha版不添加任何开源授权，商用请联系作者 393562235@qq.com ,作者保留法律追究权利。
 禁止删除版权和尾页内容（本站底层执行<a href="http://www.btsnowball.org">BTSPHP_0.1.8_Alpha</a>）该信息必须显示。
+
+#BTSnowball官方网站
+WWW.BTSnowball.ORG
