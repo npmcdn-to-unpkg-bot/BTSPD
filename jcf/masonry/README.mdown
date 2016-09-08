@@ -1061,11 +1061,11 @@
 
 <h3><a id="user-content-cdn" class="anchor" href="#cdn" aria-hidden="true"><span class="octicon octicon-link"></span></a>CDN</h3>
 
-<p>Link directly to Masonry files on <a href="https://npmcdn.com/">npmcdn</a>.</p>
+<p>Link directly to Masonry files on <a href="https://unpkg.com/">unpkg</a>.</p>
 
-<div class="highlight highlight-text-html-basic"><pre>&lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
+<div class="highlight highlight-text-html-basic"><pre>&lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;
 <span class="pl-c">&lt;!-- or --&gt;</span>
-&lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</pre></div>
+&lt;<span class="pl-ent">script</span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">script</span>&gt;</pre></div>
 
 <h3><a id="user-content-package-managers" class="anchor" href="#package-managers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Package managers</h3>
 
